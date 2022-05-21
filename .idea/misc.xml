@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/drawable/circle_shape.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/drawable/ic_exit.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/drawable/ic_explore.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/drawable/ic_wikimedia.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/drawable/ic_wikipedia.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/drawable/ic_wikipedia_detail.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/drawable/ic_wikipedia_icon.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/activity_main2.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/activity_main3.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/activity_main4.xml" value="0.33" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/card_item.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/detail_activity.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/explore_fragment.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/explore_item.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/navigation_header.xml" value="0.33" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/photographer_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/profile_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/trend_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/layout/trend_item.xml" value="0.25" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/menu/drawer_navigation_menu.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/WikiPedia/app/src/main/res/menu/main_menu.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/WikiPedia/app/src/main/res/layout/navigation_header.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/drawable/circle_shape.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/drawable/ic_exit.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/drawable/ic_explore.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/drawable/ic_photographer.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/drawable/ic_profile.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/drawable/ic_wikipedia_detail.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/drawable/ic_wikipedia_icon.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/drawable/shape_circle.xml" value="0.1965" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/layout/activity_main2.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/layout/activity_main3.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/layout/explore_fragment.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/layout/explore_item.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/layout/navigation_header.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/layout/photographer_fragment.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/layout/profile_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/layout/trend_fragment.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/menu/drawer_navigation_menu.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/Amir/Desktop/Android Project/WikiPedia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1965" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
